@@ -1,0 +1,40 @@
+<div class="mdl-cell mdl-cell--12-col mdl-grid mdl-list__item mdl-grid--no-spacing mdl-shadow--2dp des-color--surface site-card">
+    <!-- contained(2): 4c-phone, 8c-tablet, 12c-desktop -->
+    <header class="mdl-cell mdl-cell--1-col-phone mdl-cell--2-col-tablet mdl-cell--3-col-desktop mdl-color--primary site-card__media" style="background-image: url(image/the-real-marty.jpg);"></header> <!-- contained(3): 3c-phone, 6c-tablet, 9c-desktop -->
+    <div class="mdl-cell mdl-cell--3-col-phone mdl-cell--6-col-tablet mdl-cell--9-col-desktop">
+        <!-- contained(3): 3c-phone, 6c-tablet, 9c-desktop -->
+        <div class="mdl-card__title des-color-text--surface-contrast des-typography--h5 site-typography--title-font">
+            <span>the-real-marty</span>
+        </div>
+        <div class="mdl-card__supporting-text">
+            <span class="des-typography--body-1">A simple Discord chatbot built using Discord.js and deployed to Heroku</span>
+            <br />
+            <br />
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">bot</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">chatbot</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">discord-js</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">heroku</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">javascript</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">json</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">nodejs</span>
+            </span>
+        </div>
+        <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--accent mdl-js-button mdl-js-ripple-effect site-button" href="https://github.com/martindes01/the-real-marty/" target="_blank">View source</a>
+        </div>
+    </div>
+</div>
+<div class="mdl-cell mdl-cell--12-col mdl-grid"></div> <!-- contained(2): 4c-phone, 8c-tablet, 12c-desktop -->
