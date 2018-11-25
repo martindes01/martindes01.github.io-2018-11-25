@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<projects>
+  <project>
+    <head>
+      <title>the-real-marty</title>
+      <link rel="result-url" href="search-result/the-real-marty.txt" />
+      <meta name="date" content="2018-10-14" />
+      <meta name="tags" content="bot,chatbot,discord-js,heroku,javascript,json,nodejs" />
+    </head>
+    <body>
+      <title>[the-real-marty]</title>
+      <keywords>[bot][chatbot][discord-js][heroku][javascript][json][nodejs]</keywords>
+      <content>[A simple Discord chatbot built using Discord.js and deployed to Heroku]</content>
+    </body>
+  </project>
+  <project>
+    <head>
+      <title>bellyoak-template</title>
+      <link rel="result-url" href="search-result/bellyoak-template.txt" />
+      <meta name="date" content="2018-10-10" />
+      <meta name="tags" content="ajax,css,dynamic,frontend,github-pages,google-analytics,html,html-attributes,javascript,material-design,recipe-website,responsive-design,search,server,static,template,xml,xmlhttprequest" />
+    </head>
+    <body>
+      <title>[bellyoak-template]</title>
+      <keywords>[ajax][css][dynamic][frontend][github-pages][google-analytics][html][html-attributes][javascript][material-design][recipe-website][responsive-design][search][server][static][template][xml][xmlhttprequest]</keywords>
+      <content>[A static recipe website designed for the students of Selly Oak that utilises HTML data attributes, Ajax functions and XML to implement basic search functionality and dynamic quantity calculations]</content>
+    </body>
+  </project>
+  <project>
+    <head>
+      <title>martindes01.github.io-2018-08-26</title>
+      <link rel="result-url" href="search-result/martindes01.github.io-2018-08-26.txt" />
+      <meta name="date" content="2018-08-26" />
+      <meta name="tags" content="frontend,github-pages,google-analytics,homepage,html,material-design,pwa,responsive-design,static,template" />
+    </head>
+    <body>
+      <title>[martindes01.github.io-2018-08-26]</title>
+      <keywords>[frontend][github-pages][google-analytics][homepage][html][material-design][pwa][responsive-design][static][template]</keywords>
+      <content>[An experimental static homepage built using the styles and components of github.com/martindes01/web-template-3 and originally deployed to my GitHub Pages user site at martindes01.github.io]</content>
+    </body>
+  </project>
+  <project>
+    <head>
+      <title>web-template-3</title>
+      <link rel="result-url" href="search-result/web-template-3.txt" />
+      <meta name="date" content="2018-08-26" />
+      <meta name="tags" content="css,framework,frontend,github-pages,html,library,material-design,responsive-design,static,template" />
+    </head>
+    <body>
+      <title>[web-template-3]</title>
+      <keywords>[css][framework][frontend][github-pages][html][library][material-design][responsive-design][static][template]</keywords>
+      <content>[A simple set of customisable material styles and components, including cards, buttons, elevation, shadows and typography]</content>
+    </body>
+  </project>
+  <project>
+    <head>
+      <title>web-template-2</title>
+      <link rel="result-url" href="search-result/web-template-2.txt" />
+      <meta name="date" content="2018-08-02" />
+      <meta name="tags" content="ajax,api,dynamic,framework,github-pages,html,html-attributes,javascript,library,server,static,template,xml,xmlhttprequest" />
+    </head>
+    <body>
+      <title>[web-template-2]</title>
+      <keywords>[ajax][api][dynamic][framework][github-pages][html][html-attributes][javascript][library][server][static][template][xml][xmlhttprequest]</keywords>
+      <content>[A static website framework that utilises HTML data attributes and Ajax functions to retrieve text from files and insert it dynamically into the current document]</content>
+    </body>
+  </project>
+  <project>
+    <head>
+      <title>martindes01.github.io-2017-11-08</title>
+      <link rel="result-url" href="search-result/martindes01.github.io-2017-11-08.txt" />
+      <meta name="date" content="20180202" />
+      <meta name="tags" content="blog,css,frontend,github-pages,html,javascript,jquery,jquery-ui,responsive-design,server,static,template" />
+    </head>
+    <body>
+      <title>[martindes01.github.io-2017-11-08]</title>
+      <keywords>[blog][css][frontend][github-pages][html][javascript][jquery][jquery-ui][responsive-design][server][static][template]</keywords>
+      <content>[An experimental static blog originally deployed to my GitHub Pages user site at martindes01.github.io]</content>
+    </body>
+  </project>
+  <project>
+    <head>
+      <title>web-template-1</title>
+      <link rel="result-url" href="search-result/web-template-1.txt" />
+      <meta name="date" content="20170928" />
+      <meta name="tags" content="css,frontend,github-pages,html,javascript,responsive-design,static,template" />
+    </head>
+    <body>
+      <title>[web-template-1]</title>
+      <keywords>[css][frontend][github-pages][html][javascript][responsive-design][static][template]</keywords>
+      <content>[A static homepage that implements basic carousels, dropdowns and modals in HTML, CSS and JavaScript]</content>
+    </body>
+  </project>
+  <project>
+    <head>
+      <title>konanni</title>
+      <link rel="result-url" href="search-result/konanni.txt" />
+      <meta name="date" content="20170927" />
+      <meta name="tags" content="css,frontend,github-pages,html,javascript,jquery,jquery-ui,static" />
+    </head>
+    <body>
+      <title>[konanni]</title>
+      <keywords>[css][frontend][github-pages][html][javascript][jquery][jquery-ui][static]</keywords>
+      <content>[Devised by what can only be described as some sort of animal, this is what remains of an acquaintance's doomed attempt at generating ad revenue]</content>
+    </body>
+  </project>
+</projects>

@@ -1,0 +1,41 @@
+<div class="mdl-cell mdl-cell--12-col mdl-grid mdl-list__item mdl-grid--no-spacing mdl-shadow--2dp des-color--surface site-card">
+    <!-- contained(2): 4c-phone, 8c-tablet, 12c-desktop -->
+    <header class="mdl-cell mdl-cell--1-col-phone mdl-cell--2-col-tablet mdl-cell--3-col-desktop mdl-color--primary site-card__media" style="background-image: url(image/web-template-3.png);"></header> <!-- contained(3): 3c-phone, 6c-tablet, 9c-desktop -->
+    <div class="mdl-cell mdl-cell--3-col-phone mdl-cell--6-col-tablet mdl-cell--9-col-desktop">
+        <!-- contained(3): 3c-phone, 6c-tablet, 9c-desktop -->
+        <div class="mdl-card__title des-color-text--surface-contrast des-typography--h5 site-typography--title-font">
+            <span>web-template-3</span>
+        </div>
+        <div class="mdl-card__supporting-text">
+            <span class="des-typography--body-1">A simple set of customisable material styles and components, including cards, buttons, elevation, shadows and typography</span>
+            <br />
+            <br />
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">css</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">github-pages</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">html</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">material-design</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">static</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">template</span>
+            </span>
+            <span class="mdl-chip des-color-text--surface-contrast des-typography--body-2">
+                <span class="mdl-chip__text">framework</span>
+            </span>
+        </div>
+        <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect site-button" href="https://martindes01.github.io/web-template-3/" target="_blank">Visit site</a>
+            <a class="mdl-button mdl-button--accent mdl-js-button mdl-js-ripple-effect site-button" href="https://github.com/martindes01/web-template-3/" target="_blank">View source</a>
+        </div>
+    </div>
+</div>
+<div class="mdl-cell mdl-cell--12-col mdl-grid"></div> <!-- contained(2): 4c-phone, 8c-tablet, 12c-desktop -->
